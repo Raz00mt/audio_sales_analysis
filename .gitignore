@@ -1,0 +1,24 @@
+# Виртуальные окружения Python
+.venv/
+venv/
+env/
+
+# Кэши Python и скомпилированные модули
+__pycache__/
+*.py[cod]
+
+# Автоматические контрольные точки Jupyter
+.ipynb_checkpoints/
+
+# Локальные настройки VS Code
+.vscode/
+
+# Переменные окружения с локальными настройками и ключами
+.env
+.env.*
+!.env.example
+
+# Служебные файлы Windows
+.DS_Store
+Thumbs.db
+Desktop.ini
